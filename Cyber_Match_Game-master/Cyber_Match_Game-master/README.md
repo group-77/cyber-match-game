@@ -17,7 +17,7 @@ Promote cybersecurity terminology.
 Raise cyber awareness.
 Enhance education with games.
 
-Python Language & Tools
+programming language &tools
 
 Python is a high-level programming language designed to be easy to read and simple to implement. It is open source. Python can run on Mac, Windows, and Unix systems, it also has a significant number of users.[1]
 

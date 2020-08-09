@@ -1,3 +1,4 @@
+![image](https://user-images.githubusercontent.com/59483265/89744222-8c88d400-dab3-11ea-9e81-416a78706757.png)
 
 
 
@@ -23,6 +24,8 @@ Python is a high-level programming language designed to be easy to read and simp
 Cocos2d: “ Is a framework for building 2D games, demos, and other graphical/interactive applications.”[2]
 
 PyCharm Editor: “ Is the main part of the IDE that you use to create, read and modify code.”[3]
+
+References
 
 
 [1] TechTerms. 2010. Python Definition. [ONLINE] Available at: https://techterms.com/definition/python. [Accessed 9 August 2020].

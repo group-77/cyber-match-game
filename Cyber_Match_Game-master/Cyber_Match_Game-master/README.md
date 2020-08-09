@@ -1,5 +1,36 @@
-![image](https://user-images.githubusercontent.com/59483265/89743719-7d535780-daae-11ea-96af-25be7b98744a.png)
-![image](https://user-images.githubusercontent.com/59483265/89743837-cce65300-daaf-11ea-80e8-63d346e00a93.png)
-![image](https://user-images.githubusercontent.com/59483265/89743857-fbfcc480-daaf-11ea-95c8-e1f5185101ae.png)
-![image](https://user-images.githubusercontent.com/59483265/89743913-74638580-dab0-11ea-8e80-c55268c60756.png)
+
+
+
+Cyber Match Game 
+
+Mariam Alshammari.
+Abrar Alkhammash.
+Jawzaa Alotaibi.
+Maryam Edam.
+Assal Alhazmi.
+Wejdan Alshehri.
+Hailah Alharthi
+
+A game of finding identical pairs of cybersecurity terms, the  purpose of which is: 
+Promote cybersecurity terminology.
+Raise cyber awareness.
+Enhance education with games.
+
+Python Language & Tools
+
+Python is a high-level programming language designed to be easy to read and simple to implement. It is open source. Python can run on Mac, Windows, and Unix systems, it also has a significant number of users.[1]
+
+Cocos2d: “ Is a framework for building 2D games, demos, and other graphical/interactive applications.”[2]
+
+PyCharm Editor: “ Is the main part of the IDE that you use to create, read and modify code.”[3]
+
+
+[1] TechTerms. 2010. Python Definition. [ONLINE] Available at: https://techterms.com/definition/python. [Accessed 9 August 2020].
+
+[2] Github. 2015. cocos2d-python-tutorials. [ONLINE] Available at: https://github.com/liamrahav/cocos2d-python-tutorials. [Accessed 9 August 2020].
+
+[3] jetbrains. 2019. Editor basics. [ONLINE] Available at: https://www.jetbrains.com/help/pycharm/using-code-editor.html. [Accessed 9 August 2020].
+
+[4] Github. 2019. My-minigames. [ONLINE] Available at: https://github.com/totex/My-minigames/tree/master/Card%20Match%20game%20-%20cocos2d%20python. [Accessed 9 August 2020].
+
 

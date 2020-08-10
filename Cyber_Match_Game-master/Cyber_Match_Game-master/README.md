@@ -24,7 +24,7 @@ Enhance education with games.
 
 Python is a high-level programming language designed to be easy to read and simple to implement. It is open source. Python can run on Mac, Windows, and Unix systems, it also has a significant number of users.[1]
 
-## Cocos2d: “ Is a framework for building 2D games, demos, and other graphical/interactive applications.”[2]
+ Cocos2d: “ Is a framework for building 2D games, demos, and other graphical/interactive applications.”[2]
 
 PyCharm Editor: “ Is the main part of the IDE that you use to create, read and modify code.”[3]
 
